@@ -95,7 +95,8 @@ to {
    color: #766df4;
 }
 .main{
-   background: linear-gradient(to right, rgb(118,109,244,.8) 0%, rgb(118,109,244,.8) 30%, rgb(106, 155, 244,.8) 100%), url(../img/page-title-bg.jpg) no-repeat center center fixed;
+   background: linear-gradient(to right, rgb(118,109,244,.8) 0%, rgb(118,109,244,.8) 30%, rgb(106, 155, 244,.8) 100%), url(../img/page-title-bg.jpg) no-repeat center 40% fixed;
+   background-size: cover;
    text-align: center;
 }
 .main-header{

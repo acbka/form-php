@@ -139,7 +139,7 @@
       <div class="xclose"></div>
       <p class="thanks"></p>
       <button class="btn btn-primary main-btn close-button">Close</button>            
-   </div>gydxz
+   </div>
       <script src="script/form.js"></script>
 <?php
    include("blocks/footer.php");
