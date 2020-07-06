@@ -5,15 +5,17 @@
 ?>  
 
 <div class="main" id="top">
-      <div class="main-header col-lg-10 mx-auto">
+   <div class="main-header px-xl-5 mx-xl-4 px-0 mx-0">
+      <div class="header-text px-xl-5 mx-xl-5 px-3 mx-0">
          <h1 class="text-light">Contacts</h1>
          <p class="text-light">Get in touch with by completing the below form or call us now</p>
       </div>
-      <div class="cs-shape cs-shape-bottom cs-shape-slant bg-body">
-         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 260">
-            <polygon fill="#fff" points="0,257 0,260 3000,260 3000,0"></polygon>
-         </svg>
-      </div>
+   </div>
+   <div class="bg-body">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 260">
+         <polygon fill="#fff" points="0,257 0,260 3000,260 3000,0"></polygon>
+      </svg>
+   </div>
    </div>
    <div class="form-section container pb-5 mb-5">
       <div class="row pb-5">

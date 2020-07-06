@@ -2,12 +2,12 @@
       <div class="container">
          <div class="row">
             <div class="col-lg-6 footer-logo">
-               <a class="d-block mb-3" href="#"><img class="footer-logo-dark" src="./img/logo-footer-alt.png" alt=""></a>
+               <a class="d-block mb-3" href="index.php"><img class="footer-logo-dark" src="./img/logo-footer-alt.png" alt=""></a>
                <p class="footer-text">Highly customizable and modular official multipurpose Bootstrap template and UI kit.</p>
-               <a class="social-button facebook" href=""><i class="fab fa-facebook-f social-icon"></i></a>
-               <a class="social-button twitter" href=""><i class="fab fa-twitter social-icon"></i></a>
-               <a class="social-button instagram" href=""><i class="fab fa-instagram social-icon"></i></a>
-               <a class="social-button google" href=""><i class="fab fa-google social-icon"></i></a>  
+               <a class="social-button facebook" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f social-icon"></i></a>
+               <a class="social-button twitter" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter social-icon"></i></a>
+               <a class="social-button instagram" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram social-icon"></i></a>
+               <a class="social-button google" href="https://www.google.com/" target="_blank"><i class="fab fa-google social-icon"></i></a>  
             </div>
             <div class="col-lg-6 footer-menu">
                <div class="container">

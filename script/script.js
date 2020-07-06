@@ -3,7 +3,7 @@
 // goToTop
 
 const scrollButton = document.querySelector(".scroll"),
-   mainMenu = document.querySelector(".main-menu");
+   mainMenu = document.querySelector("header");
 
 const trackScroll =() =>{
    let scrolled = window.scrollY + 150;
