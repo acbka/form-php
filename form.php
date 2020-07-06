@@ -17,9 +17,9 @@
       </svg>
    </div>
    </div>
-   <div class="form-section container pb-5 mb-5">
+   <div class="form-section container">
       <div class="row pb-5">
-         <div class="form col-lg-6 col-md-7 offset-lg-1">
+         <div class="form col-lg-6 col-md-7 offset-lg-1 mb-5">
             <div class="card">
                <form class="card-body p-5" name="form" enctype="multipart/form-data">
                   <h6 class="form-header">Before You Begin</h6>
