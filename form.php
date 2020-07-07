@@ -46,7 +46,7 @@
                         <input class="form-control pb-2" type="file" id="selfie" name="photo" accept=".jpg, .jpeg, .gif, .png, .pdf" required>
                         <!--<button class="upload" type="button">Upload</button> -->
                      </div>
-                     <div class="invalid-feedback selfie-feedback">Please check the size of the file!</div>
+                     <div class="invalid-feedback selfie-feedback">Please check the size of the file and try again!</div>
                   </div>
                   <div class="row">
                      <div class="form-group col-lg-6">

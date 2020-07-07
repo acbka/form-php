@@ -160,8 +160,8 @@ input:-ms-input-placeholder{
    color: #fff;
    font-size: .875rem;
    margin-left: -81px;
-    border-top-right-radius: 0.75rem;
-    border-bottom-right-radius: 0.75rem;
+   border-top-right-radius: 0.75rem;
+   border-bottom-right-radius: 0.75rem;
 }
 .send{
    text-align: center;
@@ -175,6 +175,10 @@ input:-ms-input-placeholder{
 }
 .address-icon{
    margin-right: 10px;
+}
+.map{
+   position: relative;
+   display: block;
 }
 .map-link{
    position: relative;
@@ -202,10 +206,7 @@ input:-ms-input-placeholder{
      width: 100%;
    }
  }
-.map{
-   position: relative;
-   display: block;
-}
+
 .marker{
    position: absolute;
    left: calc((100% - 48px) / 2);

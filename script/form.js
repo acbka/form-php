@@ -44,7 +44,7 @@
       if (error.classList.contains("show")) error.classList.remove("show");
    
       let attachedFile = photoSelfie .files[0];
-      if (attachedFile.size > 1024 *1024) {
+      if (attachedFile.size > 1024 * 1024) {
          error.classList.add("show");
       } else  {
          fileName = attachedFile.name;
@@ -91,7 +91,7 @@
    const submitForm = (event) => {
       event.preventDefault();
       const formData = new FormData(document.forms.form);
-      sendFile(formData);
+      if(fileName !="") sendFile(formData);
       popupWindow();
       submit.reset();
    }
