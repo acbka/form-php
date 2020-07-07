@@ -1,7 +1,0 @@
-Branch: Hamilton
-Name: Vlada
-Last Name: Brusylo
-Birth Date: 2020-07-03
-Email Address: vladochka.vb@gmail.com
-Image NAME: 0-eus-d2-30f6cc16ccc9d8821d93e714c3eba687.jpg
-Mobile Phone: 55-555-555
